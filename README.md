@@ -6,9 +6,9 @@ In this project, I built a FastAPI server that utilizes the Google Gemini AI mod
 
 ## Youtube
 
-For more information can be seen in my [video](https://youtu.be/U-11fQ-UjsU) on YouTube.
+For more information can be seen in my [video](https://youtu.be/0gGIB-80O-U) on YouTube.
 
-[![new_thumb](./fig/cover.png)]("https://youtu.be/U-11fQ-UjsU")
+[![new_thumb](./fig/cover.png)]("https://youtu.be/0gGIB-80O-U")
 
 ## Requirements
 
